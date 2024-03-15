@@ -14,5 +14,5 @@ Run the script `image_scraper.py` with Python and provide a search term as a com
 You can also specify a destination folder where the images will be saved using the `--dest_dir` option. By default, images will be saved in a folder named "images" in the project directory.<br>
 `python image_scraper.py "Artificial Intelligence" --dest_dir my_images`
 
-License
+## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [[LICENSE]] file for details.
