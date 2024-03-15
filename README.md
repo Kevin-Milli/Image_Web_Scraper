@@ -15,4 +15,4 @@ You can also specify a destination folder where the images will be saved using t
 `python image_scraper.py "Artificial Intelligence" --dest_dir my_images`
 
 ## License
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [[LICENSE]] file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
